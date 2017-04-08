@@ -1,0 +1,49 @@
+body {
+	background-color: #efeee7;
+	margin: 0;
+	padding: 0;
+	font-family: "New Times Roman", Georgia, Times, Serif;
+	color: #333333;
+}
+
+h1 {
+	color: #eee;
+	background-color: #333333;
+	font-size: 40px;
+	margin: 50px;
+	padding: 70px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	font-size: 28px;
+}
+
+.Container {
+	margin: 0 auto;
+	color: blue;
+	font-size: 20px;
+}
+
+#bio-image {
+	width: 200px;
+	float: left;
+	margin: 25px;
+}
+
+#main-bio {
+	float: left;
+	width: 70%;
+}
+
+#contact-info {
+	float: left;
+	width: 30%;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+a:link {
+	color: #d21034;
+}
